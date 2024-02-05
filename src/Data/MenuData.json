@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "heading": "Margarita Pizza 8” ",
+        "money":"150₹",
+        "paragraph": "Our Pizza is freshly made for you from the farm, the cheese here is produced in the farm and freshly baked and topped with olives and other veggies",
+        "image" :"https://images.unsplash.com/photo-1571066811602-716837d681de?q=80&w=1844&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 2,
+        "heading": "Classic Beef Burger",
+        "money": "180₹",
+        "paragraph": "Indulge in the savory delight of our classic beef burger, featuring premium ground beef, fresh lettuce, tomatoes, and a special house sauce.",
+        "image": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?q=80&w=1922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 3,
+        "heading": "Grilled Chicken Panini",
+        "money": "160₹",
+        "paragraph": "Savor the taste of our grilled chicken panini, filled with tender slices of grilled chicken, melted cheese, and a medley of fresh vegetables.",
+        "image": "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 4,
+        "heading": "Chocolate Hazelnut Milkshake",
+        "money": "120₹",
+        "paragraph": "Indulge your sweet tooth with our delectable chocolate hazelnut milkshake, a creamy blend of rich chocolate, hazelnut, and topped with whipped cream.",
+        "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 5,
+        "heading": "Spicy Jalapeño Burger",
+        "money": "190₹",
+        "paragraph": "For those who love a kick of spice, our Spicy Jalapeño Burger is the perfect choice, featuring a juicy patty, melted cheese, and fiery jalapeños.",
+        "image": "https://images.unsplash.com/photo-1610440042657-612c34d95e9f?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 6,
+        "heading": "Strawberry Banana Milkshake",
+        "money": "130₹",
+        "paragraph": "Quench your thirst with the refreshing taste of our Strawberry Banana Milkshake, a delightful blend of ripe strawberries, bananas, and creamy goodness.",
+        "image": "https://images.unsplash.com/photo-1611928237590-087afc90c6fd?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+      
+      
+      
+      
+      
+]

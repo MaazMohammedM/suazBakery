@@ -1,0 +1,41 @@
+[
+    
+      {
+        "id": 1,
+        "username": "FoodieExplorer",
+        "rating": 4.5,
+        "comment": "The Classic Beef Burger is a must-try! Loved the freshness of the ingredients and the cozy ambiance."
+      },
+      {
+        "id": 2,
+        "username": "SweetToothCraver",
+        "rating": 5.0,
+        "comment": "The Chocolate Hazelnut Milkshake is heavenly! Creamy, rich, and absolutely delicious. A perfect treat for dessert."
+      },
+      {
+        "id": 3,
+        "username": "HealthyBiteFan",
+        "rating": 4.0,
+        "comment": "The Turkey Avocado Club Sandwich exceeded my expectations! Fresh and wholesome ingredients. Great option for a light yet satisfying meal."
+      },
+      {
+        "id": 4,
+        "username": "SpiceLover",
+        "rating": 4.8,
+        "comment": "The Spicy Jalapeño Burger is a flavor explosion! Perfect for those who enjoy a bit of heat. Service was excellent too!"
+      },
+      {
+        "id": 5,
+        "username": "FruitFanatic",
+        "rating": 4.2,
+        "comment": "Strawberry Banana Milkshake was refreshing and not overly sweet. A delightful choice for anyone who loves fruity flavors."
+      },
+      {
+        "id": 6,
+        "username": "VeggieEnthusiast",
+        "rating": 4.7,
+        "comment": "The Veggie Delight Burger is a fantastic vegetarian option! Flavorful patty and a variety of fresh veggies make it a satisfying choice."
+      }
+    ]
+  
+  
