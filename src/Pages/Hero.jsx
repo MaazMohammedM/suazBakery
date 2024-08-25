@@ -11,7 +11,7 @@ const Hero =()=>{
                 <div className="flex flex-col md:items-start gap-6 md:w-1/2 md:justify-start">
                     <h1 className="text-stone-900 text-2xl text-center font-bold font-['Sen']
                     md:text-left md:text-[2rem] md:leading-10
-                    ">Welcome to Suaz Bakery Cafe</h1>
+                    ">Welcome to Mark Bakery Cafe</h1>
                     <p className="text-stone-600 text-center text-lg italic font-medium font-['Playfair Display'] leading-[27px]
                     md:text-left md:text-[1.5rem] md:leading-[150%]">Bite into bliss – Your journey begins at our bakery cafe, where every treat is a melody of flavors, crafted just for you.</p>
                     <div className="btnGrp flex flex-col md:flex-row gap-2 items-center">
